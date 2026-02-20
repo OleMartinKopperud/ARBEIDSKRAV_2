@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import AddFrom from './AddFrom'
+import AddForm from './AddForm'
 import ShoppingList from './ShoppingList'
 
 export default function App() {
